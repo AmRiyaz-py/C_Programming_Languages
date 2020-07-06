@@ -1,6 +1,6 @@
 /*
 Pragram:- Convert Centigrade to Farahenite.
-Author- Mario
+Author- AmRiyaz
 Last Modified :- April
 */
 #include<stdio.h>

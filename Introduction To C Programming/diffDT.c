@@ -1,6 +1,6 @@
 /*
 Pragram:- Declaring Different Datatypes.
-Author- Mario
+Author- AmRiyaz
 Last Modified :- April
 */
 #include<stdio.h>

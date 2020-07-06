@@ -1,6 +1,6 @@
 /*
 Pragram:- Declaring variables in C.
-Author- Mario
+Author- AmRiyaz
 Last Modified :- April
 */
 void main()

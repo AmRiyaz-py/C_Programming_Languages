@@ -1,6 +1,6 @@
 /*
 Pragram:- Write a program to find the area and circumference of the circle of the given radius.
-Author- Mario
+Author- AmRiyaz
 Last Modified :- April
 */
 #include<stdio.h>
