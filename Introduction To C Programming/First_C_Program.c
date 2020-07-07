@@ -1,6 +1,6 @@
 /*
-Pragram:- This is the First C program.
-Author- Mario
+Program:- This is the First C program.
+Author- AmRiyaz
 Last Modified :- April
 */
  #include<stdio.h>
