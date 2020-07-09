@@ -1,5 +1,5 @@
 /*
-Pragram:- Write a program to find the area and circumference of the circle of the given radius.
+Program:- Write a program to find the area and circumference of the circle of the given radius.
 Author- AmRiyaz
 Last Modified :- April
 */
