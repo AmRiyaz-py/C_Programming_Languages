@@ -1,7 +1,7 @@
 /*
-Pragram:- Write a program to interchange the values of the variable.
+Program:- Write a program to interchange the values of the variable.
             1. Without using third variable.
-Author- Mario
+Author- AmRiyaz
 Last Modified :- April
 */
 #include<stdio.h>
