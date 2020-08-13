@@ -1,2 +1,11 @@
 +
-+ Nested Loop
++ Nested Loop:-  we can put a loop inside another loop called nested loop, 
++ so there is two loops called one is outer loop and other one is inner loop,
+
+for(i = 1; i <= 10; i++){
+  for(j = 1; j<=10; j++){
+    statement1;
+    statement2;
+  }
+}
+        ===
