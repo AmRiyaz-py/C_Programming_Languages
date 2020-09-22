@@ -1,1 +1,9 @@
 
+                                                      +++++++++++++
+
+Continue Statement:- In the loop there is some situation we want to shift the control beginning of the loop, by passing the some statement inside the 
+                      loop which have noot yet been executed, using the keyword continue, When this keyword is encountered the control by passall statement
+                      which is written after continue and control shift beginning of the loop.
+
+                                                      ++++++++++++++
+    
